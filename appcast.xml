@@ -3,6 +3,16 @@
     <channel>
         <title>Skill Notes</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Tue, 14 Jul 2026 21:39:25 +0200</pubDate>
+            <link>https://github.com/shortcutchris/skill-notes-releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/skill-notes-releases/main/SkillNotes-0.1.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/shortcutchris/skill-notes-releases/releases/download/v0.1.2/SkillNotes-0.1.2.zip" length="13659878" type="application/octet-stream" sparkle:edSignature="x+qMTyF3DvPD2QI1S3RdFucWoIKHBuwCF750t+4jl3UTNXDaCzHU2+zKUmD48xRlT76LfECG44uMM1Ce+ZndCw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Tue, 14 Jul 2026 18:38:56 +0200</pubDate>
             <link>https://github.com/shortcutchris/skill-notes-releases</link>
