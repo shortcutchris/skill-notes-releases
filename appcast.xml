@@ -3,6 +3,16 @@
     <channel>
         <title>Skill Notes</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Sat, 18 Jul 2026 00:24:59 +0200</pubDate>
+            <link>https://github.com/shortcutchris/skill-notes-releases</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/skill-notes-releases/main/SkillNotes-0.6.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/shortcutchris/skill-notes-releases/releases/download/v0.6.0/SkillNotes-0.6.0.zip" length="14256895" type="application/octet-stream" sparkle:edSignature="wQTBKzOrzemes7MSJZzaJuCGovQU0a/2p0uBekNJZXLQJaXbq3WlfTPPVj2a/WziQu2P8DMzYNqvaVunILzVDg=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Fri, 17 Jul 2026 21:06:56 +0200</pubDate>
             <link>https://github.com/shortcutchris/skill-notes-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/skill-notes-releases/main/SkillNotes-0.5.0.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/shortcutchris/skill-notes-releases/releases/download/v0.5.0/SkillNotes-0.5.0.zip" length="14195984" type="application/octet-stream" sparkle:edSignature="X2cNLsuZYx7hys3vFRoR/E8UIIekayLVY3zI3Z2OmlPC8aV9kaR7J03MnS3tLAqprkLCmtayhQ+Mbb2AJ9hyBw=="/>
-        </item>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Fri, 17 Jul 2026 15:16:38 +0200</pubDate>
-            <link>https://github.com/shortcutchris/skill-notes-releases</link>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/skill-notes-releases/main/SkillNotes-0.4.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/shortcutchris/skill-notes-releases/releases/download/v0.4.2/SkillNotes-0.4.2.zip" length="14090577" type="application/octet-stream" sparkle:edSignature="SsdW4vdbZdtJQ6v6b2Pdr6MUIWhA7dnyp0KXnfFgsLh1cymVbxkp1jVCkB69srvOjSguKa8eTuotLmeNckljCA=="/>
         </item>
     </channel>
 </rss>
