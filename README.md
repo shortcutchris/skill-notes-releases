@@ -1,5 +1,7 @@
 # Skill Notes Releases
 
+[Support](SUPPORT.md) · [Privacy Policy](PRIVACY.md) · [Support auf Deutsch](SUPPORT.de.md) · [Datenschutzerklärung](PRIVACY.de.md)
+
 This public repository contains signed and notarized Skill Notes release archives and the stable Sparkle update feed.
 
 - Download releases from [GitHub Releases](https://github.com/shortcutchris/skill-notes-releases/releases).
